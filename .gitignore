@@ -1,0 +1,20 @@
+# Ingestion-pipeline source clippings — never tracked
+processed/
+Clippings/
+
+# Obsidian local editor config
+.obsidian/
+
+# MkDocs build output
+site/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
