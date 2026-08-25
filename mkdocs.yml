@@ -59,6 +59,7 @@ nav:
     - index.md
     - Machine Learning: Machine_Learning.md
     - Embeddings: Embeddings.md
+    - SQL: SQL.md
     - Python: Python.md
     - Data: Data.md
     - Agentic Coding: Agentic_Coding.md

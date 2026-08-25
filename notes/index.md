@@ -4,12 +4,15 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
-- Nothing added yet — the 3 most recently added notes (each from a different topic page) will appear here after the next ingestion.
+- [Optimizing DuckDB Spatial Queries](SQL.md): PostGIS vs. DuckDB spatial join strategies, indexing, and GeoParquet. (SQL)
+- [Prompting (Hugging Face Transformers docs)](Machine_Learning.md): Best practices for LLM prompt engineering. (Machine Learning)
+- [The Technical Debt of Earth Embedding Products](Embeddings.md): Fragmentation across Earth embedding file formats and tile schemes. (Embeddings)
 
 ## Topics
 
 | Page | Description |
 |------|-------------|
+| [SQL](SQL.md) | SQL query techniques, spatial/geospatial SQL, and database engines. |
 | [Embeddings](Embeddings.md) | Embedding techniques and representations, including geospatial/earth embeddings. |
 | [Agriculture](Agriculture.md) | Agricultural technology, remote sensing applications, and field-level data methods. |
 | [Climate Change](Climate_Change.md) | Climate change impacts, events, and related datasets. |
